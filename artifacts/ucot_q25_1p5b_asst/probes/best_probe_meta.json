@@ -1,0 +1,11 @@
+{
+  "task": "ucot (hint causal relevance)",
+  "pos": "assistant_start(turn2)",
+  "best_layer": 17,
+  "val_acc_logreg": 0.77,
+  "test_acc_logreg": 0.75,
+  "val_acc_mlp": 0.7233,
+  "test_acc_mlp": 0.7217,
+  "standardize": true,
+  "seed": 7
+}
